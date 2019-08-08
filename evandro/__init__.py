@@ -34,9 +34,9 @@ def create_app(test_config=None):
     from evandro.routes.api import api_blueprint
     app.register_blueprint(api_blueprint)
 
-    @app.route('/hello')
-    def hello():
-        return 'Hello, World!'
+    @app.route('/')
+    def root():
+        return app.send_static_file('index.html')
 
     @app.route('/test')
     def index():

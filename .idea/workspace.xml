@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be6ce6b8-e342-484d-b5ff-98d95ef38922" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/evandro/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/evandro/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evandro/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/evandro/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evandro/static/js/app.a80ca85c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/evandro/static/js/app.a80ca85c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/evandro/static/precache-manifest.15c31682c2b41b81173e77f79229a365.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/evandro/static/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/evandro/static/service-worker.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/evandro/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="14" column="74" lean-forward="true" selection-start-line="14" selection-start-column="74" selection-end-line="14" selection-end-column="74" />
+            <state relative-caret-position="60">
+              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -121,7 +124,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -446,14 +449,14 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/evandro/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="14" column="74" lean-forward="true" selection-start-line="14" selection-start-column="74" selection-end-line="14" selection-end-column="74" />
+        <state relative-caret-position="60">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>

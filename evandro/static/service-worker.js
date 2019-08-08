@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/static/precache-manifest.15c31682c2b41b81173e77f79229a365.js"
+  "/precache-manifest.91d9f1d6deceb68ecd9688f75cda145d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "evandro-web-client"});
